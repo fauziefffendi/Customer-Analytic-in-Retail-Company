@@ -1,4 +1,4 @@
-# Analysis of Chip Product Customer Segments in Retail Companies
+# Analysis of Chip Product Customer Segments
 
 Background
 
